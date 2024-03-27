@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/funfox/static/css/main.406be806.css",
+    "main.js": "/funfox/static/js/main.efe939fa.js",
+    "index.html": "/funfox/index.html",
+    "main.406be806.css.map": "/funfox/static/css/main.406be806.css.map",
+    "main.efe939fa.js.map": "/funfox/static/js/main.efe939fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.406be806.css",
+    "static/js/main.efe939fa.js"
+  ]
+}
